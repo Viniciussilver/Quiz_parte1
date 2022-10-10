@@ -28,6 +28,7 @@ button {
   );
   border-radius: 3rem;
   border: none;
+  transition: 0.3s;
 }
 
 button:hover {
